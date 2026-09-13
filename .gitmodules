@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "autoBagging"]
-	path = autoBagging
-	url = https://github.com/cran/autoBagging
 [submodule "tsensembler"]
 	path = tsensembler
 	url = https://github.com/vcerqueira/tsensembler
